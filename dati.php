@@ -20,5 +20,6 @@
     </p>
 
     <p>Il paragrafo è lungo <?php echo strlen($text); ?> caratteri</p>
+
 </body>
 </html>
